@@ -1,5 +1,5 @@
 # CV-the-wire
-Face recognition on the show The Wire
+Face recognition on McNulty from the show The Wire
 # Output 
 ![record](/assets/recordgif.gif)
 # Based on
